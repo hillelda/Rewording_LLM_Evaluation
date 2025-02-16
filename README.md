@@ -1,6 +1,8 @@
 # NLP-project-2024
 Advanced NLP project 67664 Beyond the Surface:  Rewording as a Lens for Robust LLM Evaluation
 
+## Full analysis of method and results can be found in the PDF file (in this repo).
+
 ## The Code has two parts
 ### Generating an answer to a multi-choice question (as structured in the MMLU database)
 This code has the following parts:
